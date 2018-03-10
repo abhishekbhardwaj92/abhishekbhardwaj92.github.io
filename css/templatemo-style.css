@@ -211,12 +211,12 @@ header .social-icon li a
  		color: #ffffff;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 300;
-		overflow-x: hidden;
+/* 		overflow-x: hidden; */
 		/*background: url('../images/home-bg.jpg') no-repeat;*/
 		background-size: cover;
 		padding-top: 160px;
 		padding-bottom: 100px;
-		min-height: 800px;
+		min-height: 600px;
 	}
 #home h1
 	{
